@@ -1,5 +1,5 @@
 var express = require('express');
-var apod = require('../apod/apodService');
+var apod = require('../Apod/apodService');
 
 var router = express.Router();
 
